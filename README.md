@@ -1,2 +1,2 @@
 ![alt text](Python_logo.png "Title")
-# PYTHON KURSUS
+<h1>PYTHON KURSUS</h1>
