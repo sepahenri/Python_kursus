@@ -1,2 +1,2 @@
-![alt text](Python.svg "Title")
+![alt text](Python_logo.png "Title")
 # python_kursus
