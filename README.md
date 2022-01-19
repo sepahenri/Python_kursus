@@ -1,2 +1,1 @@
 # python_kursus
-# muudatused
